@@ -69,6 +69,7 @@
     <Compile Include="Assets\Enemy\Path.cs" />
     <Compile Include="Assets\Scripts\MoveAgent.cs" />
     <Compile Include="Assets\Enemy\StateMachine.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Enemy\States\BaseState.cs" />
     <Compile Include="Assets\Scripts\PlayerInteract.cs" />
   </ItemGroup>

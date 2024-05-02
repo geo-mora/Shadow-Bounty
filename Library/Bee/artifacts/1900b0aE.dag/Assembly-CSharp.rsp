@@ -362,6 +362,7 @@
 "Assets/Enemy/StateMachine.cs"
 "Assets/Enemy/States/BaseState.cs"
 "Assets/Enemy/States/PatrolState.cs"
+"Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/MoveAgent.cs"
 "Assets/Scripts/NPCInteractable.cs"
 "Assets/Scripts/PlayerInteract.cs"
